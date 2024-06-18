@@ -9,4 +9,4 @@
 #mysql
 #redis
 
-portainer:latest
+portainer-ce:latest
